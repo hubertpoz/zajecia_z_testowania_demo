@@ -9,3 +9,9 @@
       color:blueviolet
       
     }
+    img{
+      padding: 100px;
+      padding-left: 90px;
+      padding-bottom: 90px;
+      border-radius: 40%;
+    }
